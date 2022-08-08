@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text("Uploaded File Link: ", style: TextStyle(fontWeight: FontWeight.bold),),
-                    SizedBox(height: 10,),
+                    const SizedBox(height: 10,),
                     TextButton(
                         onPressed: () async{
                           await Clipboard.setData( ClipboardData(text: link!));
@@ -48,7 +48,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         child: Text("${link!}\n\n(Tap here to Copy Link)")),
                   ],
                 ),
-              ) : SizedBox()
+              ) : const SizedBox()
 
             ],
           ),
