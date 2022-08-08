@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "627115368211",
+    "project_id": "filepicker-286b2",
+    "storage_bucket": "filepicker-286b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627115368211:android:0f051f62f86389a2ef04e6",
+        "android_client_info": {
+          "package_name": "com.fire.file_picker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627115368211-tcr87a0kmlbj1n91phtvp2js2rcs5pcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fire.file_picker_app",
+            "certificate_hash": "a80edb0a7c85b98cb87b1dc84dc05aabcde9f583"
+          }
+        },
+        {
+          "client_id": "627115368211-5j9rkjvjbh3pkpqhhb2itmks2oc22u7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9RuhseLWAjlK0L7V07jMusNcghB_CQOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627115368211-5j9rkjvjbh3pkpqhhb2itmks2oc22u7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
